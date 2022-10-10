@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">Academic Writing</a></li>
       after: |
         <li><a href="https://pkgs.rstudio.com/bookdown/" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/petzi53/academic-writing/edit/BRANCH/%s
+    edit: https://github.com/petzi53/academic-writing/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
